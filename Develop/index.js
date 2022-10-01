@@ -22,6 +22,12 @@ const questions = [
       },
       {
         type: 'input',
+        name: 'license',
+        message: 'What license will be used?',
+        choice: ['MIT', 'ISC', 'GNU', 'MOZILLA', 'PERL' ]
+      },
+      {
+        type: 'input',
         name: 'contribution',
         message: 'What does the user need to know about contributing to the project?',
       },
