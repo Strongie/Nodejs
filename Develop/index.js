@@ -64,12 +64,16 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer.createPromptModule(questions)
+    inquirer
+    .prompt(questions)
     .then((data) => {
-        fs.writeFile("README.md", data, (err) =>
+        console.log(data);
+        fs.writeFile("README.md", generateMarkdown(data), (err) =>
           err ? console.log(err) : console.log('Success !')
         );
       })};
 
 // Function call to initialize app
 init();
+
+

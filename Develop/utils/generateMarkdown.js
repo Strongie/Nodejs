@@ -27,7 +27,11 @@ let licenses = [
 ];
 
 
-function renderLicenseBadge(license) {}
+function renderLicenseBadge(license) {
+        
+
+
+}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -39,7 +43,49 @@ function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+
+  return `
+  
+ #${data.project}#
+
+
+ #Table of Contents#
+
+    1. Description
+    2. Installation
+    3. Usage
+    4. License
+#Contribution#
+
+${data.contribution}
+
+#Description#
+
+  ${data.description}
+
+ 
+  #Installation#
+
+  ${data.install}
+
+  #Usage#
+
+  ${data.description}
+
+  #License#
+
+  ${data.license}
+
+  #Contribution#
+
+  ${data.contribution}
+
+  #Tests# 
+  ${data.test}
+
+  #Additional Information#
+  # For additional Information you can go to Github <https://github.com/${data.github}>
+  # Alternatively you can email me at <${data.email}>
 
 `;
 }
