@@ -1,6 +1,6 @@
 
   
- ##lksadfjlak##
+ ##readme##
 
  ----------
 
@@ -18,40 +18,40 @@
  
 ##Description
 
-  aksdfjal;skjf
+  readme generator
 
   ----------
  
 ##Installation
 
-  akjf;laj
+  node js
 
   ----------
 
 ##Usage
 
-  kajflkasjf
+  creating a readme file
 
   ----------
 
 ##License
 
-  skdfjalskjf
+  MIT
 
   ----------
 
 ##Contribution
 
-  akjflkasjf
+  be careful
 
   ----------
 
 ##Test 
-  dkjfalskdjf
+  run test
 
   ----------
 
 ##Questions
-  # For additional Information you can go to Github <https://github.com/djfklasjf>
-  # Alternatively you can email me at <akjdflks>
+  # For additional Information you can go to Github <https://github.com/strongie>
+  # Alternatively you can email me at <email@email.com>
 

@@ -46,11 +46,11 @@ function generateMarkdown(data) {
 
   return `
   
- ##${data.project}##
+ # ${data.project}
 
  ----------
 
- ##Table of Contents
+ ## Table of Contents
 
   1. [Description] (#description)
   2. [Installation] (#install)
@@ -62,44 +62,44 @@ function generateMarkdown(data) {
    
   ----------
  
-##Description
+## Description
 
   ${data.description}
 
   ----------
  
-##Installation
+## Installation
 
   ${data.install}
 
   ----------
 
-##Usage
+## Usage
 
   ${data.usage}
 
   ----------
 
-##License
+## License
 
   ${data.license}
 
   ----------
 
-##Contribution
+## Contribution
 
   ${data.contribution}
 
   ----------
 
-##Test 
+## Test 
   ${data.test}
 
   ----------
 
 ##Questions
-  # For additional Information you can go to Github <https://github.com/${data.github}>
-  # Alternatively you can email me at <${data.email}>
+  For additional Information you can go to Github <https://github.com/${data.github}>
+  Alternatively you can email me at <${data.email}>
 
 `;
 }
