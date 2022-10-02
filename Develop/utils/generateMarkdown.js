@@ -46,18 +46,18 @@ function generateMarkdown(data) {
 
   return `
   
- # ${data.project}
+# ${data.project}
 
  ----------
 
- ## Table of Contents
+## Table of Contents
 
-  1. [Description] (#description)
-  2. [Installation] (#install)
-  3. [Usage] (#usage)
-  4. [License] (#license)
-  5. [Contribution] (#contribution)
-  6. [Test] (#test)
+  1. [Description](#description)
+  2. [Installation](#install)
+  3. [Usage](#usage)
+  4. [License](#license)
+  5. [Contribution](#contribution)
+  6. [Test](#test)
   7. [Questions](#questions)
    
   ----------
@@ -97,7 +97,7 @@ function generateMarkdown(data) {
 
   ----------
 
-##Questions
+## Questions
   For additional Information you can go to Github <https://github.com/${data.github}>
   Alternatively you can email me at <${data.email}>
 
