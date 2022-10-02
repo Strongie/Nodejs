@@ -1,4 +1,4 @@
-#Project
+Project
 
 Professional README Generator Starter Code
 Challenge Module 09 Node.js
@@ -6,13 +6,13 @@ Challenge Module 09 Node.js
 Github URL: https://github.com/Strongie/Nodejs
 
 
-#User Story
+User Story
 
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 
-#Acceptance Criteria
+Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
