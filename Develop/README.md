@@ -1,8 +1,10 @@
 
   
-# sfd
+# Readme
 
- ----------
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+
+----------
 
 ## Table of Contents
 
@@ -18,40 +20,44 @@
  
 ## Description
 
-  afd
+  generate a readme file
 
   ----------
  
 ## Installation
 
-  af
+  use inquirer
 
   ----------
 
 ## Usage
 
-  asdf
+  to generate a professional readme file
 
   ----------
 
 ## License
 
-  GNU
+  MIT
 
+   
+
+  
   ----------
 
 ## Contribution
 
-  asfd
+  all contributions should be well documented
 
   ----------
 
 ## Test 
-  adf
+  node index.js
 
   ----------
 
 ## Questions
-  For additional Information you can go to Github <https://github.com/af>
-  Alternatively you can email me at <adf>
+  For additional Information you can go to Github <https://github.com/Strongie>
+ 
+  Alternatively you can email me at <nickstrong665@gmail.com>
 
