@@ -26,10 +26,10 @@ const questions = [
         message: 'What can the project be used for?',
       },
       {
-        type: 'input',
+        type: 'list',
         name: 'license',
         message: 'What license will be used?',
-        choice: ['MIT', 'ISC', 'GNU', 'MOZILLA', 'PERL' ]
+        choices: ["MIT", "ISC", "GNU", "MOZILLA", "PERL" ],
       },
       {
         type: 'input',
