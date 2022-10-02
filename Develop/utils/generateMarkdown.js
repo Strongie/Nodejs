@@ -155,7 +155,7 @@ ${renderLicenseBadge(data) }
 ## Questions
   For additional Information you can go to Github <https://github.com/${data.github}>
  
-  Alternatively you can email me at <${data.email}>
+  Alternatively you can email me at:  <${data.email}>
 
 `;
 }

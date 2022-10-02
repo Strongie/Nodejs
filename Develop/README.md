@@ -1,8 +1,8 @@
 
   
-# adf
+# Readme Generator
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 ----------
 
@@ -20,44 +20,44 @@
  
 ## Description
 
-  adf
+  To produce code that can generate a professional readme file
 
   ----------
  
 ## Installation
 
-  adfa
+  install inquirer and fs and run in terminal
 
   ----------
 
 ## Usage
 
-  asdfsa
+  To produce professional readme files for coding projects
 
   ----------
 
 ## License
 
-  ISC
+  MIT
 
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)]
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   
   ----------
 
 ## Contribution
 
-  asdfsd
+  All contributions are welcome and should improve the functionality of the code
 
   ----------
 
 ## Test 
-  asdfs
+  use node index.js
 
   ----------
 
 ## Questions
-  For additional Information you can go to Github <https://github.com/adsfa>
+  For additional Information you can go to Github <https://github.com/Strongie>
  
-  Alternatively you can email me at <asdf>
+  Alternatively you can email me at <nickstrong665@gmail.com>
 
