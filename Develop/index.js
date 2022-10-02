@@ -22,6 +22,11 @@ const questions = [
       },
       {
         type: 'input',
+        name: 'usage',
+        message: 'What can the project be used for?',
+      },
+      {
+        type: 'input',
         name: 'license',
         message: 'What license will be used?',
         choice: ['MIT', 'ISC', 'GNU', 'MOZILLA', 'PERL' ]
@@ -69,7 +74,7 @@ function init() {
     .then((data) => {
         console.log(data);
         fs.writeFile("README.md", generateMarkdown(data), (err) =>
-          err ? console.log(err) : console.log('Success !')
+          err ? console.log(err) : console.log('Your README has be generated')
         );
       })};
 
