@@ -136,7 +136,7 @@ ${renderLicenseBadge(data) }
 
   ${data.license}
 
-  ${renderLicenseSection(data)}
+  ${renderLicenseBadge(data) }
 
   
   ----------
